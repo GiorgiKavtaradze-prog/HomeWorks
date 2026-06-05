@@ -8,6 +8,8 @@ internal class Program
     {
         // --- Task 1
         PowerIntervalChecker.Run();
-
+        
+        // Task 1 (Alternative)
+        SquareAreaDifferenceCalculator.Run();
     }
 }
