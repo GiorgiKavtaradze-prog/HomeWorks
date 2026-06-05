@@ -23,6 +23,5 @@ internal class Program
         
         // Task 6
         ArrayElementLengthFilter.Run();
-        
     }
 }
