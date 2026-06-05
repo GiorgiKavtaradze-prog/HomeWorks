@@ -33,5 +33,11 @@ The goal of this repository is to track progress through various homework module
 *   **[Console App Source](./Homework5/Homework5App/Program.cs)**: Main entry point that orchestrates six modular task implementations.
 *   **[README](./Homework5/README.md)**: Documentation for Homework 5.
 
+### [Homework 6](./Homework6)
+*   **[Solution](./Homework6/Homework6.slnx)**: Visual Studio Solution for the console application.
+*   **[Project](./Homework6/Homework6App/Homework6App.csproj)**: .NET 10 console application with 6 tasks.
+*   **[Console App Source](./Homework6/Homework6App/Program.cs)**: Main entry point that orchestrates six modular task implementations.
+*   **[README](./Homework6/README.md)**: Documentation for Homework 6.
+
 ---
 *Built with precision and a commitment to continuous learning.*

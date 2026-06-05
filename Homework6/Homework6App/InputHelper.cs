@@ -54,4 +54,18 @@ public static class InputHelper
         }
         return Array.Empty<int>();
     }
+
+    public static string GetStringInput(string message)
+    {
+        while (true)
+        {
+            Console.Write(message);
+            string? input = Console.ReadLine();
+            if (!string.IsNullOrWhiteSpace(input))
+            {
+                return input;
+            }
+            Console.WriteLine("Invalid input. Please enter a non-empty string.");
+        }
+    }
 }
