@@ -1,0 +1,6 @@
+# Homework Assignment 1: Documentation
+Status: Finalized
+Date: May 14, 2026
+
+This document contains the deliverables for the first homework assignment. 
+All technical requirements have been addressed, and the Vim simulation environment has been successfully concluded.
