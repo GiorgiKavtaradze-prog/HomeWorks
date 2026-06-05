@@ -4,7 +4,7 @@ This repository contains Homework5App, a modular .NET 10 console application tha
 
 ## Project Structure
 
-Main files under Homework5App/:
+Main files under Homework6App/:
 
 - Program.cs — application entry point that invokes each task sequentially.
 - InputHelper.cs — reusable console input validation and parsing utilities.
@@ -26,13 +26,13 @@ Main files under Homework5App/:
 Open a terminal in the `Homework5` directory and run:
 
 ```bash
-dotnet build Homework5App\Homework5App.csproj
+dotnet build Homework6App\Homework6App.csproj
 ```
 
 Then execute:
 
 ```bash
-dotnet run --project Homework5App\Homework5App.csproj
+dotnet run --project Homework6App\Homework6App.csproj
 ```
 
 The application will prompt for input for each task and output the result directly to the console.

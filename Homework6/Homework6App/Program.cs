@@ -1,13 +1,13 @@
 using System;
 
-namespace Homework5App;
+namespace Homework6App;
 
 internal class Program
 {
     static void Main(string[] args)
     {
-        // Task 1
-        SquareAreaDifferenceCalculator.Run();
-        
+        // --- Task 1
+        PowerIntervalChecker.Run();
+
     }
 }
