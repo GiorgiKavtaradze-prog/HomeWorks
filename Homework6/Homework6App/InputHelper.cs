@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace Homework5App;
+namespace Homework6App;
 
 public static class InputHelper
 {
